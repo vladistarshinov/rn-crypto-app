@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "itproger",
-    "slug": "itproger",
+    "name": "rn-crypto-app",
+    "slug": "rn-crypto-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
